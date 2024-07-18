@@ -33,29 +33,26 @@
   <title>Chess</title>
   <link rel="manifest" href="manifest.json">
 
-  <script>
-    // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "3530807254";
-  </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
+  <!-- This script adds the NEW flutter initialization for BOOTSTRAP JS code -->
+  <script src="chess/flutter_bootstrap.js" async></script>
 </head>
 
 <body>
+
+
 <script>
-  window.addEventListener('load', function (ev) {
+  window.addEventListener('load', function(ev) {
     // Download main.dart.js
-    _flutter.loader.loadEntrypoint({
+    _flutter.loader.load({
       serviceWorker: {
-        serviceWorkerVersion: serviceWorkerVersion,
-      },
-      onEntrypointLoaded: function (engineInitializer) {
-        engineInitializer.initializeEngine({
-          useColorEmoji: true,
-        }).then(function (appRunner) {
-          appRunner.runApp();
-        });
-      }
+        serviceWorkerVersion: "839990514",
+  }
+  }).then(function(engineInitializer) {
+      return engineInitializer.initializeEngine();
+    }).then(function(appRunner) {
+      return appRunner.runApp();
     });
   });
 </script>

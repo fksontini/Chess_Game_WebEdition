@@ -48265,7 +48265,7 @@ s=s.a.a<600?A.py(n,B.F1,n,new A.apy(a),n,n):A.eT(n,n,B.v,n,n,n,n,n,n,n)
 r=t.p
 k=A.aBl(A.b([s,A.py(n,B.F0,n,new A.apz(a),n,n)],r),k)
 if(A.bq(a,!0,l).a==null)l=B.BY
-else{s=A.aOx(A.b([new A.J8(10,A.n0(!1,B.Ax,!0,A.eG(new A.bz(B.ck,A.k7(A.b([new A.bz(B.ck,new A.Jq(B.Ay,A.pA("./assets/chess.gif",n,50,n,n),n),n),B.KE],r),B.ab,B.cU,B.aF),n),100,n),n,!0,n,n,n,n,n,n,n,n,n,new A.apA(this,a),n,n,n,n),n)],r),B.ab,B.as,n,B.eL,B.aF,n,n,B.bD)
+else{s=A.aOx(A.b([new A.J8(10,A.n0(!1,B.Ax,!0,A.eG(new A.bz(B.ck,A.k7(A.b([new A.bz(B.ck,new A.Jq(B.Ay,A.pA("assets/chess.gif",n,50,n,n),n),n),B.KE],r),B.ab,B.cU,B.aF),n),100,n),n,!0,n,n,n,n,n,n,n,n,n,new A.apA(this,a),n,n,n,n),n)],r),B.ab,B.as,n,B.eL,B.aF,n,n,B.bD)
 s=A.b([s,B.KF,this.d!==[]?B.Tr:A.eT(n,n,B.v,n,n,n,n,n,n,n)],r)
 for(r=J.au(this.d);r.v();){q=r.gJ(r)
 p=A.bq(a,!0,l).a.b
@@ -48331,7 +48331,7 @@ return new A.US(new A.lS(B.d_,s),new A.lS(B.d_,s),new A.bS(null,t.am),B.l)}}
 A.US.prototype={
 L(a){var s=this,r=null,q=t.w
 q=A.bE(a,r,q).w.a.a*0.8<400?A.bE(a,r,q).w.a.a*0.8:400
-return A.BJ(r,new A.bz(B.ck,A.kQ(A.ayI(A.eG(A.aCX(A.iI(A.b([new A.bz(B.by,A.pA("./assets/chess.gif",r,100,r,r),r),new A.bz(B.by,A.CK(s.d,B.nI,!1,new A.aqt()),r),new A.bz(B.by,A.CK(s.e,B.nH,!0,new A.aqu()),r),new A.bz(B.by,A.jg(B.Th,new A.aqv(a),r),r),A.yE(!1,B.Tm,r,r,B.cm,r,r,r,r,new A.aqw(s,a),r,r)],t.p),B.ab,B.cU,B.aF),s.f),r,q)),r,r),r))}}
+return A.BJ(r,new A.bz(B.ck,A.kQ(A.ayI(A.eG(A.aCX(A.iI(A.b([new A.bz(B.by,A.pA("assets/chess.gif",r,100,r,r),r),new A.bz(B.by,A.CK(s.d,B.nI,!1,new A.aqt()),r),new A.bz(B.by,A.CK(s.e,B.nH,!0,new A.aqu()),r),new A.bz(B.by,A.jg(B.Th,new A.aqv(a),r),r),A.yE(!1,B.Tm,r,r,B.cm,r,r,r,r,new A.aqw(s,a),r,r)],t.p),B.ab,B.cU,B.aF),s.f),r,q)),r,r),r))}}
 A.aqt.prototype={
 $1(a){var s
 if(a.length===0)return"Please enter your email"
@@ -48445,7 +48445,7 @@ return new A.WB(new A.lS(B.d_,s),new A.lS(B.d_,s),new A.lS(B.d_,s),new A.lS(B.d_
 A.WB.prototype={
 L(a){var s=this,r=null,q=t.w
 q=A.bE(a,r,q).w.a.a*0.8<400?A.bE(a,r,q).w.a.a*0.8:400
-return A.BJ(r,new A.bz(B.ck,A.ayI(A.kQ(A.eG(A.aCX(A.iI(A.b([new A.bz(B.by,A.pA("./assets/chess.gif",r,100,r,r),r),new A.bz(B.by,A.CK(s.d,B.Fc,!1,new A.arH()),r),new A.bz(B.by,A.CK(s.e,B.Fd,!1,new A.arI()),r),new A.bz(B.by,A.CK(s.f,B.nI,!1,new A.arJ()),r),new A.bz(B.by,A.CK(s.r,B.nH,!0,new A.arK()),r),new A.bz(B.by,A.yE(!1,B.Ty,r,r,B.cm,r,r,r,r,new A.arL(s,a),r,r),r)],t.p),B.ab,B.cU,B.aF),s.w),r,q),r,r)),r))}}
+return A.BJ(r,new A.bz(B.ck,A.ayI(A.kQ(A.eG(A.aCX(A.iI(A.b([new A.bz(B.by,A.pA("assets/chess.gif",r,100,r,r),r),new A.bz(B.by,A.CK(s.d,B.Fc,!1,new A.arH()),r),new A.bz(B.by,A.CK(s.e,B.Fd,!1,new A.arI()),r),new A.bz(B.by,A.CK(s.f,B.nI,!1,new A.arJ()),r),new A.bz(B.by,A.CK(s.r,B.nH,!0,new A.arK()),r),new A.bz(B.by,A.yE(!1,B.Ty,r,r,B.cm,r,r,r,r,new A.arL(s,a),r,r),r)],t.p),B.ab,B.cU,B.aF),s.w),r,q),r,r)),r))}}
 A.arH.prototype={
 $1(a){var s
 if(a.length===0)return"Please enter your username"
@@ -48526,7 +48526,7 @@ return A.M($async$yO,r)},
 aK(){this.yO()
 this.aY()},
 L(a){var s=null,r=t.w
-return A.BJ(s,A.kQ(A.pA("./assets/chess.gif",s,A.bE(a,s,r).w.a.b/2,s,A.bE(a,s,r).w.a.a/2),s,s))}}
+return A.BJ(s,A.kQ(A.pA("assets/chess.gif",s,A.bE(a,s,r).w.a.b/2,s,A.bE(a,s,r).w.a.a/2),s,s))}}
 A.ata.prototype={
 $1(a){return B.EP},
 $S:355}

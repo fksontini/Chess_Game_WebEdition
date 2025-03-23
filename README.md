@@ -31,8 +31,7 @@ We remain hopeful that development will resume in the future, with the goal of e
 
 ## Contribution
 
-Although the project is currently suspended, contributions and suggestions are always welcome. Feel free to fork the repository and submit pull requests or open issues to discuss potential improvements and future plans.
-
+يسقسي عليك الخير برو
 ## License
 
 This project is licensed.

@@ -13,14 +13,16 @@ We remain hopeful that development will resume in the future, with the goal of e
 ### Implemented:
 - Responsive chessboard UI
 - Basic multiplayer connectivity setup
-
-### Planned for Future Releases:
 - Real-time multiplayer matches
 - User registration and profiles
 - Matchmaking and player rankings
 - Time controls and chess clock implementation
 - In-game chat functionality
 - Cross-platform compatibility (web, mobile)
+
+### Planned for Future Releases:
+- Validation of App in Apple store
+- Test & Validation of the product
 
 ## Tech Stack
 - **Flutter**: Cross-platform UI development

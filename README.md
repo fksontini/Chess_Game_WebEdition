@@ -26,8 +26,8 @@ We remain hopeful that development will resume in the future, with the goal of e
 
 ## Tech Stack
 - **Flutter**: Cross-platform UI development
-- **WebSockets** (planned): Real-time multiplayer interactions
-- **Firebase Authentication** (planned): User account management
+- **WebSockets** : Real-time multiplayer interactions
+- **Authentication** : User account management
 
 ## Contribution
 
